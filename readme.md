@@ -160,9 +160,8 @@ curl -X 'POST' \
 
 Swagger UI tersedia di:
 
-```text
 https://keluhan-multilabel-classification-api-production.up.railway.app/docs
-```
+
 
 ---
 
